@@ -8,7 +8,7 @@ pip3 install -r requirements.txt
 # Extracted Data
 **CovidScraper** is a **Spider inside the Corona_Detect_App**, which will show table data. You can run it using **scrapy runspider CovidScraper.py** : 
 ```shell
->> scrapy runspider
+>> scrapy runspider CovidScraper.py
 
 2020-04-12 19:19:09 [protego] DEBUG: Rule at line 16 without any user agent to enforce it on.
 2020-04-12 19:19:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.worldometers.info/coronavirus/#countries> (referer: None)
