@@ -35,8 +35,8 @@ pip3 install -r requirements.txt
 #+#    #+# #+#    #+#   #+#+#+#       #+#     #+#    #+# #+#     #+# #+#   #+#+# #+#     #+# #+#        #+#     #+#      #+#        #+#    #+#     
 ########   ########      ###     ########### #########  ###     ### ###    #### ###     ### ########## ###    ######### ########## ###    ###   v1.0
 		
-		>>> Press 1 : Covid Data According Gender In json file
-		>>> Press 2 : Covid Data FRom District of India IN json File
+		>>> Press 1 : Covid Data according to gender in JSON file
+		>>> Press 2 : Covid Data from districts of India in a JSON File
 		
 >>> 1
 ```
