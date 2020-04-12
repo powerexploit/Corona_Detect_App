@@ -10,7 +10,3 @@ class FirstSpider(scrapy.Spider):
 	def parse(self, response):
 		table =   pd.read_html(response.text)
 		print(table)
-		
-
-
-
